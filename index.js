@@ -1,4 +1,4 @@
-use strict';
+'use strict';
 
 const storeName = 'localFiles';
 const storeKey = 'fileName';
